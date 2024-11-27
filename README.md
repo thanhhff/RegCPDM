@@ -1,4 +1,8 @@
-# RegCPDM: Improving End-to-End CT to PET Translation via Medical-Knowledge-Guided Diffusion Model
+# RegCPDM: CT to PET Translation with Medical-Knowledge-Guided Diffusion Model
+
+This is the official implementation of RegCPDM.
+Authors: Dac Thai Nguyen, Huu Tien Nguyen, Trung Thanh Nguyen, Huy Hieu Pham, Thanh Hung Nguyen, Thao Nguyen Truong, Phi Le Nguyen, and Thanh Trung Nguyen.
+
 ***
 ![img](resources/RegCPDM_architecture.png)
 
@@ -47,3 +51,22 @@ sh shell/your_shell.sh
 
 ## Acknowledgement
 Our code is implemented based on Brownian Bridge Diffusion Model (https://github.com/xuekt98/BBDM)  
+
+## Citation
+If you find this code useful for your research, please cite the following paper:
+```
+@inproceedings{nguyen2025RegCPDM,
+  title = {CT to PET Translation with Medical-Knowledge-Guided Diffusion Model},
+  author = {Nguyen, Dac Thai and Nguyen, Huu Tien and Nguyen, Trung Thanh and Pham, Huy Hieu and Nguyen, Thanh Hung and Truong, Thao Nguyen and Nguyen, Phi Le and Nguyen, Thanh Trung},
+  year = {2025},
+}
+```
+
+```
+@inproceedings{nguyen2025CPDM,
+  title = {CT to PET Translation: A Large-scale Dataset and Domain-Knowledge-Guided Diffusion Approach},
+  author = {Nguyen, Dac Thai and Nguyen, Trung Thanh and Nguyen, Huu Tien and Nguyen, Thanh Trung and Pham, Huy Hieu and Nguyen, Thanh Hung and Truong, Thao Nguyen and Nguyen, Phi Le},
+  booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  year = {2025},
+}
+```
