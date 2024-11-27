@@ -6,6 +6,9 @@ Authors: Dac Thai Nguyen, Huu Tien Nguyen, Trung Thanh Nguyen, Huy Hieu Pham, Th
 ***
 ![img](resources/RegCPDM_architecture.png)
 
+## CT/PET Dataset
+Please refer to this repo for information about the dataset: https://github.com/thanhhff/CPDM/
+
 ## Requirements
 ```commandline
 cond env create -f environment.yml
