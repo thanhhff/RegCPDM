@@ -1,7 +1,7 @@
 # RegCPDM: CT to PET Translation with Medical-Knowledge-Guided Diffusion Model
+![Official Implementation](https://img.shields.io/badge/Official-Implementation-brightgreen)
 
-This is the official implementation of RegCPDM.
-Authors: Dac Thai Nguyen, Huu Tien Nguyen, Trung Thanh Nguyen, Huy Hieu Pham, Thanh Hung Nguyen, Thao Nguyen Truong, Phi Le Nguyen, and Thanh Trung Nguyen.
+Authors: Dac Thai Nguyen, Huu Tien Nguyen, Trung Thanh Nguyen, Huy Hieu Pham, Thanh Hung Nguyen, Thao Nguyen Truong, Phi Le Nguyen, and Thanh Trung Nguyen. (*Dac Thai Nguyen and Huu Tien Nguyen contributed equally to this study.*)
 
 ***
 ![img](resources/RegCPDM_architecture.png)
@@ -53,7 +53,10 @@ sh shell/your_shell.sh
 ```
 
 ## Acknowledgement
-Our code is implemented based on Brownian Bridge Diffusion Model (https://github.com/xuekt98/BBDM)  
+```
+This work was supported by Vingroup Joint Stock Company (Vingroup JSC), Vingroup; in part by the Vingroup Innovation Foundation (VINIF) under Project VINIF.2021.DA00128.
+Our code is implemented based on Brownian Bridge Diffusion Model (https://github.com/xuekt98/BBDM)
+```
 
 ## Citation
 If you find this code useful for your research, please cite the following paper:
