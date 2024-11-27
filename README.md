@@ -1,5 +1,5 @@
-![Official Implementation](https://img.shields.io/badge/Official-Implementation-brightgreen)
 # RegCPDM: CT to PET Translation with Medical-Knowledge-Guided Diffusion Model
+![Official Implementation](https://img.shields.io/badge/Official-Implementation-brightgreen)
 
 Authors: Dac Thai Nguyen, Huu Tien Nguyen, Trung Thanh Nguyen, Huy Hieu Pham, Thanh Hung Nguyen, Thao Nguyen Truong, Phi Le Nguyen, and Thanh Trung Nguyen. (*Dac Thai Nguyen and Huu Tien Nguyen contributed equally to this study.*)
 
