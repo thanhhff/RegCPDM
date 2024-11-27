@@ -20,10 +20,10 @@ The path of paired image dataset should be formatted as:
 ```yaml
 your_dataset_path/train/A  # training reference
 your_dataset_path/train/B  # training ground truth
-your_dataset_path/val/A  # validating reference
-your_dataset_path/val/B  # validating ground truth
-your_dataset_path/test/A  # testing reference
-your_dataset_path/test/B  # testing ground truth
+your_dataset_path/val/A    # validating reference
+your_dataset_path/val/B    # validating ground truth
+your_dataset_path/test/A   # testing reference
+your_dataset_path/test/B   # testing ground truth
 ```
 
 ## Train and test Segmentation Model for Object Detection in CT image
